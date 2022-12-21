@@ -3,7 +3,7 @@ tags={
 	"Technologies"
 	"Utilities"
 }
-name="Repeatable Megastructure Boosts"
+name="Repeatable Megastructure Boosts [Gigastructures]"
 picture="thumbnail.png"
 supported_version="3.6.1"
 remote_file_id="2904397972"
