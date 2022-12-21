@@ -1,0 +1,10 @@
+﻿l_english:
+
+rmb_tech_repeatable_increased_mega_cap:0 "Parallel Mega-Processing"
+rmb_tech_repeatable_increased_mega_cap_desc:0 "Parallel computing improvments now allow us to produce one addition megastructure at a time" 
+
+rmb_tech_repeatable_reduced_mega_building_cost:0 "Metamaterial Sourcing"
+rmb_tech_repeatable_reduced_mega_building_cost_desc:0 "Utilizing meta-materials to decrease build time"
+
+rmb_tech_repeatable_reduced_mega_building_time:0 "Supply Chain Optimization"
+rmb_tech_repeatable_reduced_mega_building_time_desc:0 "Increases Megastructure build speed using construction optimization processes"
