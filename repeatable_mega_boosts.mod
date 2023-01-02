@@ -4,5 +4,6 @@ tags={
 	"Utilities"
 }
 name="Repeatable Megastructure Boosts [Gigastructures]"
+picture="thumbnail.png"
 supported_version="3.6.1"
-path="C:/Users/samha/OneDrive/Previous/Documents/Paradox Interactive/Stellaris/mod/repeatable_mega_boosts"
+remote_file_id="2904397972"
