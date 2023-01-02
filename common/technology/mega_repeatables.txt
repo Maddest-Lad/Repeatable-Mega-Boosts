@@ -4,7 +4,7 @@ rmb_tech_repeatable_reduced_mega_building_time = {
 	cost_per_level = 10000
 	tier = 5
 	category = { voidcraft }
-	levels = 40
+	levels = 20
 	prerequisites = { "tech_mega_engineering" }
 	weight = 20
 	ai_weight = { factor = 1 }
@@ -13,40 +13,10 @@ rmb_tech_repeatable_reduced_mega_building_time = {
 	modifier = { megastructure_build_speed_mult = 0.10 }
 }
 
-rmb_tech_repeatable_reduced_mega_building_cost = {
-	area = society
-	cost = 100000
-	cost_per_level = 10000
-	tier = 5
-	category = { statecraft }
-	levels = 18
-	prerequisites = { "tech_mega_engineering" }
-	weight = 20
-	ai_weight = { factor = 1 }
-	weight_groups = { repeatable }
-	mod_weight_if_group_picked = { repeatable = 0.01 }
-	modifier = { megastructures_cost_mult = -0.05 }
-}
-
-rmb_tech_repeatable_increased_mega_output = {
-	area = society
-	cost = 100000
-	cost_per_level = 10000
-	tier = 5
-	category = { statecraft }
-	levels = 18
-	prerequisites = { "tech_mega_engineering" }
-	weight = 20
-	ai_weight = { factor = 1 }
-	weight_groups = { repeatable }
-	mod_weight_if_group_picked = { repeatable = 0.01 }
-	modifier = { megastructures_cost_mult = -0.05 }
-}
-
 rmb_tech_repeatable_increased_mega_cap = {
 	area = physics
 	cost = 100000
-	cost_per_level = 10000
+	cost_per_level = 100000
 	tier = 5
 	category = { computing }
 	levels = 40
@@ -57,4 +27,3 @@ rmb_tech_repeatable_increased_mega_cap = {
 	mod_weight_if_group_picked = { repeatable = 0.01 }
 	modifier = { country_megastructure_build_cap_add = 1 }
 }
-
