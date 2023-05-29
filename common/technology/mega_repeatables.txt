@@ -1,8 +1,8 @@
 rmb_tech_repeatable_reduced_mega_building_time = {
 	area = engineering
-	cost = 100000
-	cost_per_level = 10000
-	tier = 5
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
 	category = { voidcraft }
 	levels = 20
 	prerequisites = { "tech_mega_engineering" }
@@ -15,9 +15,9 @@ rmb_tech_repeatable_reduced_mega_building_time = {
 
 rmb_tech_repeatable_reduced_mega_building_cost = {
 	area = society
-	cost = 100000
-	cost_per_level = 10000
-	tier = 5
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
 	category = { statecraft }
 	levels = 20
 	prerequisites = { "tech_mega_engineering" }
@@ -30,9 +30,9 @@ rmb_tech_repeatable_reduced_mega_building_cost = {
 
 rmb_tech_repeatable_increased_mega_cap = {
 	area = physics
-	cost = 100000
-	cost_per_level = 100000
-	tier = 5
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
 	category = { computing }
 	levels = 40
 	prerequisites = { "tech_mega_engineering" }
