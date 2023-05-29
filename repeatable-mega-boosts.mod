@@ -5,6 +5,6 @@ tags={
 }
 name="Repeatable Megastructure Boosts"
 picture="thumbnail.png"
-supported_version="3.7.*"
-path="C:/Users/samha/Documents/Paradox Interactive/Stellaris/mod/repeatable-mega-boosts"
+supported_version="3.8.*"
+path="C:/Users/sam/Documents/Paradox Interactive/Stellaris/mod/repeatable-mega-boosts"
 remote_file_id="2904792202"
